@@ -23,6 +23,8 @@
 # 中转站点清单参考
 - [api.daheiai.com](https://api.daheiai.com/)
 - [apiranking.com](https://apiranking.com/)
+- [API中转站平台-www.apizhongzhuanzhan.com/providers?type=aggregator/](https://www.apizhongzhuanzhan.com/providers?type=aggregator/)
+
 
 
 # 中转站模型测评相关
