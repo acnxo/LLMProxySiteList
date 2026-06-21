@@ -22,10 +22,10 @@
 
 # 中转站点清单参考
 - [api.daheiai.com](https://api.daheiai.com/)
-- [oneapi](oneapi-site-list.md)
+- [oneapi](oneapi-site-list.m)
 
 
 # 中转站模型测试相关
 
 - [apiranking.com/verify-yourself](https://apiranking.com/verify-yourself)
-- [oneapi](oneapi-site-list.md)
+- [openrouter.host](http://openrouter.host/)
