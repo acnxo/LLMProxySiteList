@@ -22,7 +22,7 @@
 
 # 中转站点清单参考
 - [api.daheiai.com](https://api.daheiai.com/)
-- [oneapi](oneapi-site-list.m)
+- [apiranking.com](https://apiranking.com/)
 
 
 # 中转站模型测评相关
