@@ -25,7 +25,7 @@
 - [oneapi](oneapi-site-list.m)
 
 
-# 中转站模型测试相关
+# 中转站模型测评相关
 
 - [apiranking.com/verify-yourself](https://apiranking.com/verify-yourself)
 - [openrouter.host](http://openrouter.host/)
