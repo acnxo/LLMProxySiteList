@@ -27,5 +27,5 @@
 
 # 中转站模型测试相关
 
-- [newapi](newapi-site-list.md)
+- [apiranking.com/verify-yourself](https://apiranking.com/verify-yourself)
 - [oneapi](oneapi-site-list.md)
