@@ -173,6 +173,15 @@
 | Relaydance | - | - | 暂无更多描述。 |
 | Aderouter.ai | - | - | 暂无更多描述。 |
 | Claude Relay | - | - | 暂无更多描述。 |
+| itaiapi | [`https://itaiapi.com`](https://itaiapi.com) | - | 来自 apiranking.com 排行榜。 |
+| boxying | [`https://boxying.com`](https://boxying.com) | - | 来自 apiranking.com 排行榜。 |
+| CCTQ | [`https://www.cctq.ai`](https://www.cctq.ai) | - | 来自 apiranking.com 排行榜。 |
+| 小马API | [`https://xiaoma.best`](https://xiaoma.best) | - | 来自 apiranking.com 排行榜。 |
+| APINebula | [`https://apinebula.com`](https://apinebula.com) | - | 来自 apiranking.com 排行榜。 |
+| ZIVV | [`https://zivv.pro`](https://zivv.pro) | - | 来自 apiranking.com 排行榜。 |
+| Sum API | [`https://api.clawopen.top`](https://api.clawopen.top) | - | 来自 apiranking.com 排行榜。 |
+| 球球Token | [`https://qiuqiutoken.com`](https://qiuqiutoken.com) | - | 来自 apiranking.com 排行榜。 |
+| 镜核 AI | [`https://ai.17nas.com`](https://ai.17nas.com) | - | 来自 apiranking.com 排行榜。 |
 | ocoolAPI | [`https://one.ooo.cool/register/`](https://one.ooo.cool/register/?aff_code=NEAd) | - | 文档详细适合小白，模型覆盖全但缺乏速度和稳定性测评，生产环境建议先压测。 |
 | gptgod | [`https://gptgod.cloud/`](https://gptgod.cloud/) | - | 官方 + 逆向混合路由，性价比高但逆向通道风险大，适合当主力之一别全压。 |
 | UoCode | [`https://www.uocode.com/register`](https://www.uocode.com/register?aff=rRqz) | Claude、Codex | 主打Claude和Codex系列模型 |
